@@ -15,8 +15,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Ron9YwUXKyy2ROumYaaF7JtFNI" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/websites" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -175,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570342165244</updated>
       <workItem from="1570342166283" duration="27105000" />
-      <workItem from="1570404134652" duration="24321000" />
+      <workItem from="1570404134652" duration="24814000" />
     </task>
     <servers />
   </component>
